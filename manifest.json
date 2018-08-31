@@ -1,0 +1,21 @@
+{
+  "short_name": "Endeavor",
+  "name": "Endeavor",
+  "icons": [
+    {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtvOuLH23hKmaeSrFvqbOajMHnaWg5Jc969asKTli3-yOmGbk",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtvOuLH23hKmaeSrFvqbOajMHnaWg5Jc969asKTli3-yOmGbk",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/Xchange_HomePage",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "",
+  "theme_color": "#3367D6"
+}
